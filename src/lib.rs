@@ -1,3 +1,5 @@
+mod hotkey;
+pub use hotkey::*;
 #[cfg(test)]
 mod tests {
     #[test]
